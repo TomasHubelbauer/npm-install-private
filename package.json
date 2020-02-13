@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "self-email": "git+https://github.com/tomashubelbauer/email.git"
+  }
+}
